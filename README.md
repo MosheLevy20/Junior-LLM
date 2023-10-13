@@ -1,5 +1,5 @@
-# Junior Features
-Junior is a code writing agent designed to be seemlessly integrated into your workflow.
+# Junior
+Junior is a code writing agent designed to be seamlessly integrated into your workflow.
 ## Multi-File Edits
 
 ![Multi-File Edits](./static/edits1.gif)
